@@ -1,6 +1,22 @@
 ![header](github-header-banner.png)
 
+<h3 align="left">👨‍💻 About Me</h3>
+
 ###
+
+<p align="left">
+I'm an Information Technology student at Universitas Sumatera Utara.<br><br>
+
+- 🎓 Currently studying Information Technology at Universitas Sumatera Utara<br>
+- 💻 Interested in Web Development and Software Engineering<br>
+- 📚 Currently learning Laravel, JavaScript, and System Analysis & Design<br>
+- ⚡ In my free time, I build small projects and explore new technologies
+</p>
+
+###
+
+###
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
@@ -24,7 +40,10 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
 </div>
 
-
+<h3 align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="22"/> 
+  Socials
+</h3>
 <div align="center">
   <a href="https://instagram.com/holysnpr_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
@@ -40,6 +59,7 @@
 </div>
 
 ###
+<h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -47,6 +67,7 @@
 </div>
 
 ###
+<h3 align="left">🎮 Game PacMan</h3>
 
 <br clear="both">
 
