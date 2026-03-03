@@ -48,8 +48,8 @@
 
 ###
 
-![Pacman][def]
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/HolySianipar/HolySianipar/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 
 ###
-
-[def]: https://raw.githubusercontent.com/HolySianipar/HolySianipar/output/pacman-contribution-graph.svg
